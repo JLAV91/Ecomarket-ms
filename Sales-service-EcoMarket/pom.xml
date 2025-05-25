@@ -12,7 +12,7 @@
 	<artifactId>user-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>user-service</name>
-	<description>Registro de ventas</description>
+	<description>registro de ventas</description>
 	<url/>
 	<licenses>
 		<license/>
