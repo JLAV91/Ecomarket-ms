@@ -11,16 +11,21 @@ diferentes módulos y funciones del sistema.
 **Sales-service:**
 • **Registrar Ventas:** Procesar transacciones de venta en el sistema, aplicando 
                     descuentos y ofertas cuando sea necesario.
+                    
 • **Atender Devoluciones y Reclamaciones:** Procesar devoluciones de productos y 
                     gestionar reclamaciones de clientes.
+                    
 • **Generar Facturas:** Emitir facturas electrónicas y enviarlas por correo 
                     electrónico a los clientes
 
 **Shipping-service:** 
+
 • **Gestionar envíos:** crear actualizar y seguir envíos de productos desde la 
                     bodegahasta las tiendas y los clientes.
+                    
 • **Optimizar Rutas de Entrega:** Planificar y optimizar rutas de entrega para los 
                     pedidos locales y regionales.
+                    
 • **Actualizar Estado de Pedidos:** Cambiar el estado de los pedidos en el sistema, 
                     desde el procesamiento hasta la entrega final.
 
