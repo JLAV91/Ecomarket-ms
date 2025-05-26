@@ -27,3 +27,7 @@ Thumbs.db
 /dataSources.local.xml
 **/target/
 
+# Archivos y carpetas del IDE
+.idea/
+.vscode/
+*.iml
