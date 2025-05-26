@@ -1,0 +1,29 @@
+# Ignorar carpetas de compilación Java
+**/target/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de IDEs
+*.iml
+.idea/
+.vscode/
+
+# Archivos de log
+*.log
+
+# Variables de entorno o configuraciones sensibles
+.env
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Environment-dependent path to Maven home directory
+/mavenHomeManager.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+**/target/
+
