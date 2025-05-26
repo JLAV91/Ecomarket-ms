@@ -28,7 +28,6 @@ Cada microservicio está enfocado en una entidad específica del dominio y propo
 ## ⚙️ Características técnicas
 
 - **APIs RESTful** por microservicio  
-- **Comunicación entre servicios** (si aplica)  
 - **Separación de responsabilidades**  
 - Soporte para **persistencia de datos**  
-- **Documentación individual** por servicio  
+- **Documentación individual** por servicio  (Pendiente)
